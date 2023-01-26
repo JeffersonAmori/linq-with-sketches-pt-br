@@ -1,0 +1,32 @@
+Page 7
+
+Regarding on how many even number are in the enumeration. There are 3 elements total, but only 2 are even.
+
+The book reads:
+"So how many even numbers do we have in the enumeration? The answer is: 3."
+
+
+Page 8
+
+Querying data from the database IEnumerable will
+load the data into memory IN filter afterwards on the client
+
+Should be
+
+Querying data from the database IEnumerable will
+load the data into memory AND filter afterwards on the client
+
+Page 23
+
+The link for the First method points to https://www.apple.com/uk (?!)
+
+
+TO DO:
+ - Add reference to LINQ docs on page 5
+ - Fix colors for section headers
+ - Fix font of code snippets
+ - Fix table of contents
+
+Diff on the pt-BR version
+
+ - Added link for MinBy on page 17
