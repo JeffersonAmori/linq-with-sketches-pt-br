@@ -27,14 +27,7 @@ points to the same link (https://steven-giesel.com/blogPost/994467f6-2429-4534-a
 
 
 TO DO:
- - Fix font on ToC
- - Translate the following to pt-BR form Steven's blog
 
-	IEnumerable vs IQueryable - What's the difference
-	https://steven-giesel.com/blogPost/606cb702-e391-4a26-9ae5-523eeb6196ed
-
-	Generator-Function in C# - What does yield do?
-	https://steven-giesel.com/blogPost/994467f6-2429-4534-ad43-c0777076ab22
 
 Diff on the pt-BR version
 
